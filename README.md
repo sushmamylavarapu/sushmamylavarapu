@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sushmamylavarapu.
-- 👀 I’m interested in singing, movies, crochet and colouring mandalas.
+- 👀 I’m interested in Excel, Python, SQL and Tableau.
 - 🌱 I’m currently pursuing Data Analyst bootcamp from the University of Toronto.
 - 💞️ I’m looking to collaborate on entry level Data Analyst jobs.
 - 📫 Reach me at sushmamylavarapu1@gmail.com
